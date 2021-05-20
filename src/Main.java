@@ -5,7 +5,7 @@ public class Main {
         int bonus;
         balance = 1100;
         if (balance > putMoney) {
-            bonus = balance/100;
+            bonus = balance / 100;
         } else {
             bonus = 0;
         }
